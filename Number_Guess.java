@@ -40,7 +40,7 @@ class Game{
         }
     }
 }
-public class Main{
+public class Number_Guess{
    public static void main(String args[]){
         Game g = new Game();
         System.out.println("********************************Welcome********************************");
